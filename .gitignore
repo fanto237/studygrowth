@@ -40,3 +40,12 @@ Thumbs.db
 
 .nx/cache
 .nx/workspace-data
+
+# .NET
+**/bin/
+**/obj/
+/artifacts/
+
+.angular
+
+__screenshots__/

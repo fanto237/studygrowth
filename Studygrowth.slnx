@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/apps/" />
+  <Folder Name="/apps/user-api/">
+    <Project Path="apps/user-api/UserApi.csproj" />
+  </Folder>
+  <Folder Name="/libs/" />
+  <Folder Name="/libs/server/" />
+  <Folder Name="/libs/server/application/">
+    <Project Path="libs/server/application/Application.csproj" />
+  </Folder>
+  <Folder Name="/libs/server/domain/">
+    <Project Path="libs/server/domain/Domain.csproj" />
+  </Folder>
+  <Folder Name="/libs/server/infrastructure/">
+    <Project Path="libs/server/infrastructure/Infrastructure.csproj" />
+  </Folder>
+</Solution>
